@@ -13,15 +13,16 @@ Could be tested by running the corresponding bash scripts, and following the giv
 ⋅⋅* Python Libraries: PyGame and for creating particle dynamics we used PyIgnition which are basically codes available in the internet to mimic particle, obstacle motion easily.(PyIgnition is developed using PyGame) and related dependencies.  
 
 **For Linux:**
-⋅⋅* Bash Scripts files are maintained for different demo versions
-⋅⋅* Create a folder named bin in user’s home directory.
-..* Place the Linux folder in the CD on Desktop renaming it to be simulation
+<ul>
+Bash Scripts files are maintained for different demo versions
+  <li> Create a folder named bin in user’s home directory.</li>
+  <li> Place the Linux folder in the CD on Desktop renaming it to be simulation</li>
 ..* Copy the contents of the bin directory in Linux folder to the bin directory in user’s home directory.
 ..* Make sure the user’s home directory is added to environment path variable
 ..* If not, add the line to bashrc system file: export PATH=~/bin:"$PATH"
 ..* Change the mode of the files copied to be executable
 ..* Go to terminal and type simurun1 for demo1, simurun2 for demo2, simurun3 for demo3 and simurun4 for demo4, simurun5 for demo5 and simurun6 for demo6 presentation respectively.
-
+</ul>
 **For Windows:**
 .exe compilations have been built for all the six demos although they are a bit unstable in some environments.  
 In the disc go to Windows->SoftComp1->dist->SoftComp1->SoftComp.exe for demo 1 and similar paths for other demos.  
