@@ -9,12 +9,12 @@ the goal point.
 Could be tested by running the corresponding bash scripts, and following the given instructions below:
 
 **Prerequisites:**  
-..* Python 3.4 or higher  
-..* Python Libraries: PyGame and for creating particle dynamics we used PyIgnition which are basically codes available in the internet to mimic particle, obstacle motion easily.(PyIgnition is developed using PyGame) and related dependencies.  
+⋅⋅* Python 3.4 or higher  
+⋅⋅* Python Libraries: PyGame and for creating particle dynamics we used PyIgnition which are basically codes available in the internet to mimic particle, obstacle motion easily.(PyIgnition is developed using PyGame) and related dependencies.  
 
 **For Linux:**
-..* Bash Scripts files are maintained for different demo versions
-..* Create a folder named bin in user’s home directory.
+⋅⋅* Bash Scripts files are maintained for different demo versions
+⋅⋅* Create a folder named bin in user’s home directory.
 ..* Place the Linux folder in the CD on Desktop renaming it to be simulation
 ..* Copy the contents of the bin directory in Linux folder to the bin directory in user’s home directory.
 ..* Make sure the user’s home directory is added to environment path variable
